@@ -3,7 +3,7 @@ import urllib2
 import json
 
 baseurl = 'https://sandbox.tradier.com/v1/markets/quotes?symbols=SPY,TSLA,EEM'
-accessToken = 'sw5BqGTUxcV8Gm5V0umAX8Mfvcfd'
+accessToken = 'Your Token;
 
 
 
